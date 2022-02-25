@@ -6,6 +6,7 @@
 
 
 ![Shyqeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShyqeriTari&theme=chartreuse-dark&show_icons=true)
+<div style='background-color: black'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyqeriTari&langs_count=8)](https://github.com/ShyqeriTari/github-readme-stats)
-
+</div>
 
