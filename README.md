@@ -5,6 +5,6 @@
 - 📫 How to reach me: silvio.tari@gmail.com
 
 
-![Shyqeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShyqeriTari&theme=bear&show_icons=true)
+![Shyqeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShyqeriTari&theme=chartreuse-dark&show_icons=true)
 
 
