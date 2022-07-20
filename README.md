@@ -1,6 +1,6 @@
 ### Hey hey, I'm Silvio  👋
 
-- 🌱 I’m studying at EPICODE Global - Full Stack course
+- 🌱 I’m a Full-Stack developer
 - 📫 How to reach me: silvio.tari@gmail.com
 
 
